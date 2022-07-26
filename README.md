@@ -1,7 +1,7 @@
 # C
 
 
-[![Open in Visual Studio Code]](https://vscode.dev/github/chileau/C)
+[Open in Visual Studio Code](https://vscode.dev/github/chileau/C)
 
 ## Experiments for C record
 
