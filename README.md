@@ -38,8 +38,8 @@
 || [i](https://github.com/chileau/C/blob/master/floyd.c)|
 || [j](https://github.com/chileau/C/blob/master/prime_check.c)|
 | Experiment 7| [a](https://github.com/chileau/C/blob/master/arm_check.c)|
-|| [b]()|
-|| [c]()|
+|| [b](https://github.com/chileau/C/blob/master/perf_square.c)|
+|| [c](https://github.com/chileau/C/blob/master/for_while_prime.c)|
 | Experiment 8| [a]()|
 || [b]()|
 || [c]()|
