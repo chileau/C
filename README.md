@@ -31,7 +31,7 @@
 || [b](https://github.com/chileau/C/blob/master/fizzbuzz.c)|
 || [c](https://github.com/chileau/C/blob/master/for_fact.c)|
 || [d](https://github.com/chileau/C/blob/master/fibonacci.c)|
-|| [e- not yet vailable]()|
+|| [e](https://github.com/chileau/C/blob/master/fib_qts.c)|
 || [f](https://github.com/chileau/C/blob/master/earnings.c)|
 || [g](https://github.com/chileau/C/blob/master/rect_star.c)|
 || [h](https://github.com/chileau/C/blob/master/star_triangle.c)|
