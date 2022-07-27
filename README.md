@@ -38,8 +38,8 @@
 || [i](https://github.com/chileau/C/blob/master/floyd.c)|
 || [j](https://github.com/chileau/C/blob/master/prime_check.c)|
 | Experiment 7| [a](https://github.com/chileau/C/blob/master/arm_check.c)|
-|| [b](https://github.com/chileau/C/blob/master/perf_square.c)|
-|| [c](https://github.com/chileau/C/blob/master/for_while_prime.c)|
+|| [b](https://github.com/chileau/C/blob/master/for_while_prime.c)|
+|| [c](https://github.com/chileau/C/blob/master/perf_square.c)|
 | Experiment 8| [a](https://github.com/chileau/C/blob/master/real_sq.c)|
 || [b](https://github.com/chileau/C/blob/master/even_odd_check.c)|
 || [c](https://github.com/chileau/C/blob/master/fun_prime.c)|
